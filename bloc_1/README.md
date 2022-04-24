@@ -1,16 +1,5 @@
-# bloc_1
+This mini app is called *The Observer*
+The Observer is given this app and it's responsibility is to hand out the name of all the bad students to the manager.
+The observer writes each students name and adds it to the list and removes students if they become better students over time.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+p.s. The functionality is implemented using bloc (cubit to be exact - due to non-reactive events). 
